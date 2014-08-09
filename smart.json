@@ -1,0 +1,9 @@
+{
+    "name": "gitlab",
+    "description": "Package for Gitlab API",
+    "homepage": "https://github.com/Ermlab/meteor-nxt-gitlab",
+    "author": "Ermlab (http://ermlab.com)",
+    "version": "0.1.0",
+    "git": "https://github.com/Ermlab/meteor-nxt-gitlab.git",
+    "packages": {}
+}
